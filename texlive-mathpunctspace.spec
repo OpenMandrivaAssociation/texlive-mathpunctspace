@@ -1,6 +1,6 @@
 Name:		texlive-mathpunctspace
 Version:	46754
-Release:	1
+Release:	2
 Summary:	Control the space after punctuation in math expressions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathpunctspace
