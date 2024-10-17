@@ -3,7 +3,7 @@ Version:	46754
 Release:	2
 Summary:	Control the space after punctuation in math expressions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathpunctspace
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathpunctspace
 License:	bsd2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathpunctspace.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathpunctspace.doc.r%{version}.tar.xz
